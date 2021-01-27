@@ -1,5 +1,5 @@
-#Command to run the code: 
-#python3 tyson_fairhurst_hw1.py 
+#Command to run the code:
+#python3 no_error_handling.py
 
 
 year = int(input("Enter a year: "));
